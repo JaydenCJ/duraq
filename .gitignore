@@ -1,0 +1,18 @@
+# build artifacts
+/duraq
+/dist/
+
+# test and coverage output
+*.test
+*.out
+coverage.*
+
+# local queue data
+/data/
+*.ndjson
+
+# editor noise
+.idea/
+.vscode/
+*.swp
+.DS_Store
